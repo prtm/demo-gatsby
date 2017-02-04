@@ -7,7 +7,7 @@ use keyboard shortcut to run this code
 ## both python2 and python3
 
 ### dependency validators
-If data is valid url then it open that website instead of being google search
+If data is valid url then it open that website instead of search
 
 ## python2 
 ```
