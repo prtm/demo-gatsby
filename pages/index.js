@@ -24,7 +24,13 @@ export default class Index extends React.Component {
         <ul>
           
           <li>
-            <Link to={prefixLink('/copyscript/')}>Clipboard data search using chrome using python</Link>
+            <Link to={prefixLink('/blog/copyscript/')}>Clipboard data search using chrome using python</Link>
+	  </li>
+	  <li>
+            <Link to={prefixLink('/blog/grubPassword/')}>Grub2 password protect</Link>
+	  </li>
+	  <li>
+            <Link to={prefixLink('/awsConnect/')}>Connect to ubuntu desktop from linux and windows</Link>
           </li>
         </ul>
       </div>

@@ -38,7 +38,7 @@ module.exports = React.createClass({
                 textDecoration: 'none',
               }}
             >
-              Gatsby!!!
+              OpenSource TroubleShooting
             </Link>
           </Container>
         </Headroom>
